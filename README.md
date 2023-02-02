@@ -19,6 +19,7 @@ You can use database from Loyce Club (List of all funded Bitcoin addresses (bala
 # To do
 - search for substrings to save memory
 - speed up script
+- write some at Readme
 
 # How you can help
 - you can rewrite this script for better performance and make pull request
