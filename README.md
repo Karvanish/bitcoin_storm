@@ -8,6 +8,8 @@ You must install libs:
 
 bit, itertools, bitcoinlib
 
+Then you must open this script in any redactor and fill up lines 20-30 (smtp settings), set path to DATABASE at line 33, set path to winner file at line 81.
+
 Run your script directly from command line: python BitStorm.py
 
 # Speed
@@ -15,6 +17,7 @@ On my Macbook Air M1 it calculates 1 iteration (check 24 address in 43m database
 
 # Database
 You can use database from Loyce Club (List of all funded Bitcoin addresses (balance not shown, sorted in alphabetical order)) in .txt format
+Put your database to a path, that you set in DATABASE (line 33)
 
 # To do
 - search for substrings to save memory
