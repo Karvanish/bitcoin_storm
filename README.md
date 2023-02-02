@@ -19,10 +19,14 @@ On my Macbook Air M1 it calculates 1 iteration (check 24 address in 43m database
 You can use database from Loyce Club (List of all funded Bitcoin addresses (balance not shown, sorted in alphabetical order)) in .txt format
 Put your database to a path, that you set in DATABASE (line 33)
 
+# If you find something
+Write to me at Telegram (@kumulative) and i send you instructions how to convert your HEX key to proper address/final key
+
 # To do
 - search for substrings to save memory
 - speed up script
 - write some at Readme
+- add script to convert result HEX to addresses and final private keys
 
 # How you can help
 - you can rewrite this script for better performance and make pull request
