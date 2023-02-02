@@ -77,7 +77,7 @@ def search():
             setaddr = [addr1,addr2,addr3,addr4,addr5,addr6,addr7,addr8,addr9,addr10,addr11,addr12,addr13,addr14,addr15,addr16,addr17,addr18,addr19,addr20,addr21,addr22,addr23,addr24]
             for i in setaddr:
                 if i in database:
-                    print ('Поздравляем! Ключ найден: ', privetkey)
+                    print ('Congrats! Your key is here: ', privetkey)
                     f=open('/path_to_winner_file/winner.txt','a')
                     f.write(privetkey)
                     f.close()
